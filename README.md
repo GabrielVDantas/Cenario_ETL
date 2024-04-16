@@ -14,7 +14,7 @@ Este projeto utiliza o Google Colab para executar processos de ETL em duas bases
 
 - Gabriel Viegas Dantas
   - gvdantas2028@gmail.com
-  - 200342
+  - 224033
 
 
 
